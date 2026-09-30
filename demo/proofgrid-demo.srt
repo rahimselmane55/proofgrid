@@ -1,0 +1,43 @@
+1
+00:00:00,800 --> 00:00:05,600
+Used-car listings make reassuring claims. But a claim is not proof.
+
+2
+00:00:05,600 --> 00:00:09,900
+ProofGrid separates what the seller says from what can actually be verified.
+
+3
+00:00:11,100 --> 00:00:16,300
+Eight evidence-bearing claims are extracted — without inventing a trust score.
+
+4
+00:00:16,300 --> 00:00:20,600
+Each claim is matched with the evidence that would actually support it.
+
+5
+00:00:21,050 --> 00:00:24,550
+See real documentation? Mark that claim as verified.
+
+6
+00:00:25,950 --> 00:00:30,250
+The Proof Grid updates claim by claim as evidence is checked.
+
+7
+00:00:30,900 --> 00:00:35,300
+A red flag becomes a concern — not something hidden inside one score.
+
+8
+00:00:35,300 --> 00:00:39,600
+Every remaining evidence gap becomes a concrete next action.
+
+9
+00:00:39,600 --> 00:00:44,800
+ProofGrid turns uncertainty into specific questions you can send to the seller.
+
+10
+00:00:44,800 --> 00:00:49,900
+It is a verification aid — not a vehicle-quality score or purchase recommendation.
+
+11
+00:00:49,900 --> 00:00:56,900
+Know what is claimed. Know what is proven. Know what to ask next.

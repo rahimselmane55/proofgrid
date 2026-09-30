@@ -1,0 +1,19 @@
+ProofGrid — voice-over guide
+
+Used-car listings make reassuring claims. But a claim is not proof.
+
+ProofGrid separates what the seller says from what can actually be verified.
+
+Paste a listing, and ProofGrid extracts the important evidence-bearing claims — without inventing a vague trust score.
+
+Each claim is matched with the evidence that would actually support it.
+
+See real documentation? Mark that claim as verified. The Proof Grid updates claim by claim as evidence is checked.
+
+And if something raises a red flag, it becomes a concern — not something hidden inside one score.
+
+Every remaining evidence gap becomes a concrete next action. ProofGrid turns uncertainty into specific questions you can send to the seller.
+
+It is a verification aid — not a vehicle-quality score or purchase recommendation.
+
+Know what is claimed. Know what is proven. Know what to ask next.
