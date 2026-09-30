@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="ProofGrid turns used-car listing claims into an evidence checklist." />
+  <title>ProofGrid — Claims are not proof</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="ProofGrid home">
+      <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+      <span>ProofGrid</span>
+    </a>
+    <button class="button button--ghost button--small" type="button" data-reset>New analysis</button>
+  </header>
+
+  <main>
+    <section class="hero">
+      <p class="eyebrow">Used-car evidence checker</p>
+      <h1>Claims are easy.<br><span>Proof is what matters.</span></h1>
+      <p class="hero-copy">Paste a used-car listing. ProofGrid separates what the seller says from the evidence that would actually support it — then tells you exactly what to ask for next.</p>
+    </section>
+
+    <section class="input-panel" data-input-panel>
+      <div class="input-card">
+        <form data-listing-form>
+          <div class="field-heading">
+            <div>
+              <label for="listing">Paste the listing</label>
+              <p>Runs locally in your browser · Nothing uploaded</p>
+            </div>
+            <button class="button button--demo button--small" type="button" data-load-demo><span aria-hidden="true">▶</span> Try the 30-second demo</button>
+          </div>
+          <textarea id="listing" data-listing-input rows="9" placeholder="Example: Full service history. Accident-free. Timing belt replaced last year…" spellcheck="true"></textarea>
+          <p class="form-error" data-form-error role="alert"></p>
+          <div class="form-actions">
+            <button class="button button--primary" type="submit">Analyze evidence <span aria-hidden="true">→</span></button>
+            <p>No opaque trust score. No buy/don't-buy verdict.</p>
+          </div>
+        </form>
+      </div>
+
+      <div class="principle-grid" aria-label="How ProofGrid works">
+        <article><span>01</span><h2>Extract claims</h2><p>Find factual statements that can reasonably be supported by documents or records.</p></article>
+        <article><span>02</span><h2>Map evidence</h2><p>Show the specific evidence that would make each claim more meaningful.</p></article>
+        <article><span>03</span><h2>Close the gaps</h2><p>Turn missing evidence into concrete questions to send to the seller.</p></article>
+      </div>
+    </section>
+
+    <section class="results-root" data-results-root hidden></section>
+  </main>
+
+  <footer>
+    <p>ProofGrid is a verification aid, not a vehicle inspection, history report, legal opinion or purchase recommendation.</p>
+  </footer>
+
+  <div class="demo-caption" data-demo-caption hidden aria-hidden="true"></div>
+  <script type="module" src="./src/app.js"></script>
+</body>
+</html>
